@@ -1,6 +1,6 @@
 <project>
-
   <version> 3.0.0 </version>
+  <group> abc </group>
+  <artifact-id> sg-core </artifact-id>
 <dependency>
-
 </project>
